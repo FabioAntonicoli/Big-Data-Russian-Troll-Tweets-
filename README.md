@@ -9,7 +9,7 @@ The project integrates findings from our own analysis (slides + notebook) and co
 
 ---
 
-## ** Background: How Russian Trolls Operated**
+## **Background: How Russian Trolls Operated**
 
 In 2018, NBC News released a dataset of tweets from **2,752 IRA-controlled accounts** suspended by Twitter. Although Twitter deleted the accounts, journalists reconstructed part of the dataset, enabling graph-based investigation.
 
@@ -88,7 +88,7 @@ As in the article and our slides (page 10), PageRank helps identify:
 
 ---
 
-## ** Technologies Used**
+## **Technologies Used**
 
 * **Python**, Jupyter Notebook
 * **Pandas**, **NumPy**
